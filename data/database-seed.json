@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "id": "t45Aiwidd",
+      "uuid": "6383f84e-b511-44c5-a835-3ece1d781fa9",
+      "firstName": "An",
+      "lastName": "Nguyen",
+      "username": "annguyen",
+      "password": "$2a$10$AeBAQi.w58RTWKhS94zKNevwCJ61mVCiI.JCPGJLAowj9Mgs6CgM.",
+      "email": "annguyen@gmail.com",
+      "phoneNumber": "0901111111",
+      "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/t45AiwidW.svg",
+      "defaultPrivacyLevel": "public",
+      "balance": 100000000,
+      "createdAt": "2019-08-27T23:47:05.637Z",
+      "modifiedAt": "2020-05-21T11:02:22.857Z"
+    },
+    {
+      "id": "t45Aiwide",
+      "uuid": "6383f84e-b511-44c5-a835-3ece1d781fa7",
+      "firstName": "Binh",
+      "lastName": "Nguyen",
+      "username": "binhnguyen",
+      "password": "$2a$10$AeBAQi.w58RTWKhS94zKNevwCJ61mVCiI.JCPGJLAowj9Mgs6CgM.",
+      "email": "binhnguyen@gmail.com",
+      "phoneNumber": "0902222222",
+      "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/tsHF6_D5oQ.svg",
+      "defaultPrivacyLevel": "public",
+      "balance": 110000000,
+      "createdAt": "2019-09-09T13:48:45.489Z",
+      "modifiedAt": "2020-05-21T02:34:01.483Z"
+    },
+    {
+      "id": "t45Aiwidf",
+      "uuid": "6383f84e-b511-44c5-a835-3ece1d781fa6",
+      "firstName": "Cuong",
+      "lastName": "Nguyen",
+      "username": "cuongnguyen",
+      "password": "$2a$10$AeBAQi.w58RTWKhS94zKNevwCJ61mVCiI.JCPGJLAowj9Mgs6CgM.",
+      "email": "cuongnguyen@gmail.com",
+      "phoneNumber": "0903333333",
+      "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/qywYp6hS0U.svg",
+      "defaultPrivacyLevel": "public",
+      "balance": 100000000,
+      "createdAt": "2019-09-09T13:48:45.489Z",
+      "modifiedAt": "2020-05-21T02:34:01.483Z"
+    },
+    {
+      "id": "t45Aiwidg",
+      "uuid": "6383f84e-b511-44c5-a835-3ece1d781fa5",
+      "firstName": "Dung",
+      "lastName": "Nguyen",
+      "username": "dungnguyen",
+      "password": "$2a$10$AeBAQi.w58RTWKhS94zKNevwCJ61mVCiI.JCPGJLAowj9Mgs6CgM.",
+      "email": "dungnguyen@gmail.com",
+      "phoneNumber": "0904444444",
+      "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/bDjUb4ir5O.svg",
+      "defaultPrivacyLevel": "public",
+      "balance": 100000000,
+      "createdAt": "2019-09-09T13:48:45.489Z",
+      "modifiedAt": "2020-05-21T02:34:01.483Z"
+    }
+  ],
+  "contacts": [],
+  "bankaccounts": [
+    {
+      "id": "RskoB7r4Bid",
+      "uuid": "a45f1803-b845-42aa-9142-f5f80ea09417",
+      "userId": "t45Aiwidd",
+      "bankName": "Vietcombank - Ngân hàng TMCP Ngoại Thương Việt Nam",
+      "accountNumber": "1111111111",
+      "routingNumber": "111111111",
+      "isDeleted": false,
+      "createdAt": "2020-05-09T07:57:26.947Z",
+      "modifiedAt": "2020-05-21T22:18:50.916Z"
+    },
+    {
+      "id": "RskoB7r4Bie",
+      "uuid": "a45f1803-b845-42aa-9142-f5f80ea09418",
+      "userId": "t45Aiwide",
+      "bankName": "Techcombank - Ngân hàng TMCP Kỹ thương Việt Nam",
+      "accountNumber": "2222222222",
+      "routingNumber": "222222222",
+      "isDeleted": false,
+      "createdAt": "2020-05-09T07:57:26.947Z",
+      "modifiedAt": "2020-05-21T22:18:50.916Z"
+    },
+    {
+      "id": "RskoB7r4Bif",
+      "uuid": "a45f1803-b845-42aa-9142-f5f80ea09419",
+      "userId": "t45Aiwidf",
+      "bankName": "BIDV - Ngân hàng TMCP Đầu tư và Phát triển Việt Nam",
+      "accountNumber": "3333333333",
+      "routingNumber": "333333333",
+      "isDeleted": false,
+      "createdAt": "2020-05-09T07:57:26.947Z",
+      "modifiedAt": "2020-05-21T22:18:50.916Z"
+    },
+    {
+      "id": "RskoB7r4Big",
+      "uuid": "a45f1803-b845-42aa-9142-f5f80ea09410",
+      "userId": "t45Aiwidg",
+      "bankName": "Agribank - Ngân hàng TMCP Nông nghiệp và Phát triển nông thôn Việt Nam",
+      "accountNumber": "4444444444",
+      "routingNumber": "444444444",
+      "isDeleted": false,
+      "createdAt": "2020-05-09T07:57:26.947Z",
+      "modifiedAt": "2020-05-21T22:18:50.916Z"
+    }
+  ],
+  "transactions": [],
+  "likes": [],
+  "comments": [],
+  "notifications": [],
+  "banktransfers": []
+}
